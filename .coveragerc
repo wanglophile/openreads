@@ -1,0 +1,5 @@
+[run]
+include = openreads/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
